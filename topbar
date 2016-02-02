@@ -11,6 +11,7 @@ THALES JCL
    width:100%;
    height:60px;
    background-color:black;
+   font-family:'times new roman',verdana,sans-serif;
 }
 
 </html>
