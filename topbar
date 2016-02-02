@@ -1,9 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-<p class = "blackBar">
-THALES JCL
-</p>
-
+<style>
 .blackBar{
    position:fixed;
    top:0;
@@ -12,6 +9,10 @@ THALES JCL
    height:60px;
    background-color:black;
    font-family:'times new roman',verdana,sans-serif;
+   font-size:18
 }
-
+</style>
+<p class = "blackBar">
+THALES JCL
+</p>
 </html>
