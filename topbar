@@ -10,6 +10,7 @@
    background-color:black;
    font-family:'times new roman',verdana,sans-serif;
    font-size:18
+   background
 }
 </style>
 <p class = "blackBar">
