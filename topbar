@@ -1,5 +1,8 @@
 <!DOCTYPE HTML>
 <html>
+<head>
+<title> Thales JCL Website (Personal)    </title>
+</head>
 <style>
 .blackBar{
    position:fixed;
@@ -8,12 +11,13 @@
    width:100%;
    height:60px;
    background-color:black;
-   font-family:'times new roman',verdana,sans-serif;
-   font-size:18
-   background
+   font-family:verdana,'times new roman',sans-serif;
+   line-height:2;
+   
 }
 </style>
-<p class = "blackBar">
+<h1 class = "blackBar" align = "center" style="color:white"  >
 THALES JCL
-</p>
+</h1>
 </html>
+
