@@ -13,7 +13,7 @@
    background-color:black;
    font-family:verdana,'times new roman',sans-serif;
    line-height:3;
-   
+   margin:0;
 }
 </style>
 <h1 class = "blackBar" align = "center" style="color:white"  >
