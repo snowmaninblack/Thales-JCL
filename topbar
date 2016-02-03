@@ -9,10 +9,10 @@
    top:0;
    left:0;
    width:100%;
-   height:60px;
+   height:100px;
    background-color:black;
    font-family:verdana,'times new roman',sans-serif;
-   line-height:2;
+   line-height:3;
    
 }
 </style>
