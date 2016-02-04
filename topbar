@@ -5,18 +5,24 @@
 <title> Thales JCL Website (Personal)    </title>
 </head>
 <style>
-.blackBar{
-   position:fixed;
-   width:100%;
-   height:100px;
-   background: rgba(0, 0, 0, 0.5);
-   font-family:verdana,'times new roman',sans-serif;
-   line-height:3;
-	margin:0;
-   
+body {
+background-image:url(http://hivewallpaper.com/wallpaper/2015/01/rome-in-italy-33-cool-hd-wallpaper.jpg);
+background-repeat:no-repeat;
 }
+
 </style>
-<h1 class = "blackBar" align = "center" style="color:white"  >
+
+</head>
+
+<div style="background:rgba(0, 0, 0, 0.5)">
+
+<h1 align="center" style="color:black">
 THALES JCL
 </h1>
+
+<hr color="black">
+
+<p align="center"><a href="www.changeintohomepage.com">Home</a> | <a href="www.changeintomythologypage.com">Mythology</a> | <a href="www.changeintohistorypage.com">History</a></p>
+
+</div>
 </html>
