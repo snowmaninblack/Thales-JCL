@@ -1,1 +1,75 @@
 
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> Thales JCL Website (Personal)    </title>
+</head>
+<style>
+
+h1 {
+font-family:Arial;
+}
+body{
+background-color:rgb(100,100,100);
+}
+
+.Home {
+	-moz-box-shadow:inset 0px -3px 7px 0px #29bbff;
+	-webkit-box-shadow:inset 0px -3px 7px 0px #29bbff;
+	box-shadow:inset 0px -3px 7px 0px #29bbff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2dabf9), color-stop(1, #0688fa));
+	background:-moz-linear-gradient(top, #2dabf9 5%, #0688fa 100%);
+	background:-webkit-linear-gradient(top, #2dabf9 5%, #0688fa 100%);
+	background:-o-linear-gradient(top, #2dabf9 5%, #0688fa 100%);
+	background:-ms-linear-gradient(top, #2dabf9 5%, #0688fa 100%);
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2dabf9', endColorstr='#0688fa',GradientType=0);
+	background-color:#2dabf9;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:3px 8px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.Home:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0688fa), color-stop(1, #2dabf9));
+	background:-moz-linear-gradient(top, #0688fa 5%, #2dabf9 100%);
+	background:-webkit-linear-gradient(top, #0688fa 5%, #2dabf9 100%);
+	background:-o-linear-gradient(top, #0688fa 5%, #2dabf9 100%);
+	background:-ms-linear-gradient(top, #0688fa 5%, #2dabf9 100%);
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0688fa', endColorstr='#2dabf9',GradientType=0);
+	background-color:#0688fa;
+}
+.Home:active {
+	position:relative;
+	top:1px;
+}
+
+
+</style>
+
+</head>
+
+<div style="background:rgba(0, 0, 0, 0.5)">
+
+<h1 align="center" style="color:rgb(200,200,200)">
+Thales JCL
+</h1>
+
+<hr style="color:rgb(200,200,200)">
+
+
+<p align="center" style="color:rgb(200,200,200)"><a href="#" class="Home">Home</a> | <a href="#" class="Home">Mythology(CS)</a> | <a href="#" class="Home">History(CS)</a> | <a href="#" class="Home">Culture(CS)</a></p>
+
+</div>
+</html>
+
+
